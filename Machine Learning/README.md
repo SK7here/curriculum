@@ -1,10 +1,12 @@
 # Machine Learning
 
-### MOOCs & Books
-
 ### Machine Learning with scikit-learn
 
 #### 1 - Basic
+
+- [Mathematics for Beginners](https://github.com/llSourcell/Mathematics_for_Beginners)
+
+- [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone)
 
 - [Kaggle Learn](https://www.kaggle.com/learn)
 
@@ -23,12 +25,9 @@
 - “Data Science for Executives coursera” & “AI for everyone coursera”
 - [Machine Learning Specialization (Coursera)](https://www.coursera.org/specializations/machine-learning)
 - [Data Science-Python Specialization (Coursera)](https://www.coursera.org/specializations/data-science-python)
+- [Fast.ai Course](http://course.fast.ai/ml.html)
 - “How to Win a Data Science Competition: Learn from Top Kagglers coursera”
 - Book: Hands-On Machine Learning with Scikit Learn and TensorFlow O'Reilly
-
-### Machine Learning Intermediate
-
-- http://course.fast.ai/ml.html
 
 ### Machine Learning using Tensorflow
 
@@ -37,6 +36,9 @@
 - [Intro to TensorFlow for Deep Learning byTensorFlow](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
 ### Other Resources
+
+#### **Crash courses**
+- [Learn Machine Learning in 3 months:](https://github.com/amannirala13/Learn_Machine_Learning_in_3_Months) *(Maths for ML, Deep Learning, Data Science)*
 
 #### Datasets
 
